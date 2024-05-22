@@ -17,24 +17,8 @@ operation = sys.argv[2]
 num2 = float(sys.argv[3])
 
 
-  if 
-
-   operation =="add":
-    output = addition(num1, num2)
+  if operation == "add":
+      output = addition(num1, num2)
+      print(output)
     
-  elif 
-
-   operation == "sub":
-    output = sub(num1, num2)
-    
-  elif 
-
-   operation == "mul":
-    output = mul(num1, num2)
-
-    
-  else:
-
-    print("Invalid operation")
-
-    print(output)    
+      
