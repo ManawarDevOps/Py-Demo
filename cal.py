@@ -10,9 +10,6 @@ def multiplication(num1, num2):
     mul = num1 * num2
     return mul
 
-##num1 = float(sys.argv[1])
-##operation = sys.argv[2]
-##num2 = float(sys.argv[3])
 
 print(addition(5,10))
 
