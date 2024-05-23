@@ -26,5 +26,8 @@ Command line arguments are inputs passed to a script when it is executed. These 
 Accessing Command Line Arguments
 You can access command line arguments using `sys.argv`. The first element in this list, `sys.argv[0]`, is the name of the script.
 
+var1= (sys.argv[1])
+operation = sys.argv[2]
+var2 = (sys.argv[3])
 
 
