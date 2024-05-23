@@ -12,12 +12,10 @@ You can use `os.getenv` to get the value of an environment variable.
 
 Example:
 
-`
-import os
 
-print(os.getenv("password"))
+`import os
+print(os.getenv("password"))`
 
-`
 
 Command Line Arguments
 ----------------------
