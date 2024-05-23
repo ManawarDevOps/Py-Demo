@@ -20,5 +20,13 @@ num2 = float(sys.argv[3])
 if operation == "add":
     output = addition(num1, num2)
     print(output)
+elif operation == "sub":
+      output = substraction(num1, num2)
+      print(output)
+elif operation == "mul":
+      output = multiplication(num1, num2)
+      print(output)
+else:
+    print("Invalid operation")
     
       
