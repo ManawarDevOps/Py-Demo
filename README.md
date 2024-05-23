@@ -11,7 +11,7 @@ Environment Variables and Command Line Arguments
 5-Example: Developing a Python script that accepts command line arguments to customize DevOps automation tasks.
 
 
-In Python, you can handle environment variables and command line arguments using the os and sys modules, respectively. Here’s an overview and examples of how to work with both.
+In Python, you can handle environment variables and command line arguments using the `os` and `sys` modules, respectively. Here’s an overview and examples of how to work with both.
 
 Environment Variables
 ---------------------
