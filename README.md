@@ -14,7 +14,8 @@ Example:
 
 
 `import os
-print(os.getenv("password"))`
+
+ print(os.getenv("password"))`
 
 
 Command Line Arguments
